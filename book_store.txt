@@ -1,0 +1,12 @@
+Author: Richard Williams
+Title: The Animator's Survival Kit
+Genre: Educational
+DateBookCreated: 3/1/2022
+DailyRentalCost: $300.0
+DaysALlowedRented: 19                                                                                                    
+Author: J. R. R. Tolkien
+Title: The Hobbit, or There and Back Again
+Genre: High Fantasy
+DateBookCreated: 3/1/2022
+DailyRentalCost: $300.0
+DaysALlowedRented: 23                                                                                           

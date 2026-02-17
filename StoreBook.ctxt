@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StoreBook
+comment1.params=addThisBook\ FilePath
+comment1.target=StoreBook(Book,\ java.lang.String)
+comment2.params=FilePath
+comment2.target=void\ createFIle(java.lang.String)
+comment3.params=book
+comment3.target=java.lang.String\ recordToAdd(Book)
+comment4.params=FilePath
+comment4.target=int\ endOfFile(java.lang.String)
+comment5.params=addThisBook\ FilePath
+comment5.target=void\ addToEndOfFile(Book,\ java.lang.String)
+numComments=6
